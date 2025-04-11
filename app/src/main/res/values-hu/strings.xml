@@ -89,7 +89,7 @@
     <string name="auto_light">Automatikus világítás</string>
     <string name="off">Ki</string>
     <string name="on">Be</string>
-    <string name="illumination_period">Világítás időtartama</string>
+    <string name="illumination_period">Világítási idő</string>
     <string name="mm_dd">HH:NN</string>
     <string name="dd_mm">NN:HH</string>
     <string name="time_adjustment">Automatikus időbeállítás</string>
@@ -104,7 +104,7 @@
     <string name="set_reminders">Google Naptár\nEmlékeztetők</string>
 
     <string name="take_photo">Fotó készítése</string>
-    <string name="toggle_flashlight">Lámpa bekapcsolása</string>
+    <string name="toggle_flashlight">Zseblámpa bekapcsolása</string>
     <string name="start_voice_assistant">Hangasszisztens indítása</string>
     <string name="next_track">Kövezkező zeneszám</string>
     <string name="emergency_actions">Vészhelyzeti feladat:</string>
@@ -169,7 +169,7 @@
     <string name="image_captured">Fotó: %1$s</string>
     <string name="emaillocationaction_emailaddress">EmailLocationAction: emailAddress: %1$s</string>
     <string name="camera_capture_error">Fotó készítése sikertelen: %1$s</string>
-    <string name="flashlight_not_available">A lámpa hibár jelzett.</string>
+    <string name="flashlight_not_available">A zseblámpa hibár jelzett.</string>
     <string name="unable_to_get_default_sound_uri">Unable to get default sound URI</string>
     <string name="alarms_set_to_watch">Az ébresztési időpontok sikeresen át lettek küldve az órára.</string>
     <string name="events_set">Események beállítva</string>

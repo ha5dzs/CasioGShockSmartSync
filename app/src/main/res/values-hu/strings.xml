@@ -48,12 +48,12 @@
     <string name="_24h">24 órás</string>
     <string name="date_format">Nap-hónap</string>
     <string name="language">Óra nyelve</string>
-    <string name="operational_sound">Gombnyomási csipogás</string>
+    <string name="operational_sound">Gombnyomáskor csipogjon</string>
     <string name="power_saving_mode">Elemkímélő mód</string>
     <string name="select_language">Napok-hónapok nyelve:</string>
-    <string name="auto_fill_help"><![CDATA[Az alábbi étékek kerültek automatikus kitöltésre:
+    <string name="auto_fill_help"><![CDATA[Az alábbi étékek kerülnek automatikus kitöltésre:
         <li>A Dátum- és időformátum, és a nyelvi beállítások a telefon beállításait követik.</li>
-        <li>A gombcsipogás ki van kapcsolva, ha a telefon "Ne zavarjanak" módban van.</li>
+        <li>A gombcsipogás ki lesz kapcsolva, ha a telefon "Ne zavarjanak" módban van.</li>
         <li>Az elemkímélő mód be lesz kapcsolva, ha ez elem 15%% töltöttség alá merül.</li>
         Fontos: <i>Ezek a beállítások csak az "Átküldés az órára" gomb megnyomása után lesznek érvényben.</i>
         ]]>
@@ -63,11 +63,11 @@
     <string name="timerDialogTitle">Időzítő</string>
     <string name="info_home_time">
         <![CDATA[A <b>Helyi idő</b> az óra aktuális időzónája.
-        Az app ezt az időt módosítja amikor időt állít be. Az időzóna és a téli/nyári időszámítás az Android rendszer helymeghatározási szolgáltatásával kerül beállításra. Tehát nem kell a helyi időt és a világidőt külön-külön beállítani, ha a telefon időzónát vált, akkor az órán is látszani fog.]]>
+        Az alkalmazás ezt automatikusan módosítja amikor időt állít be. Az időzóna és a téli/nyári időszámítás az Android rendszer helymeghatározási szolgáltatásával kerül beállításra. Tehát nem kell a helyi időt és a világidőt külön-külön beállítani, ha a telefon időzónát vált, akkor az órán is látszani fog.]]>
     </string>
     <string name="time_adjustment_info" ><![CDATA[
     <li>Az <b>Automatikus Időbeállítás</b> naponta négyszer szinkronizálja az órát az Android rendszerrel.</li>
-    <li>ezen kívül a beállított naptári események emlékeztetőid is szinkronizálni tudja.</li>
+    <li>Ezen kívül a beállított naptári események emlékeztetőit is szinkronizálni tudja.</li>
     ]]></string>
     <string name="image_of_casio_watch">Casio Watch</string>
     <string name="connection_screen_device"> <![CDATA[
@@ -87,7 +87,7 @@
     <string name="mm_dd">HH:NN</string>
     <string name="dd_mm">NN:HH</string>
     <string name="time_adjustment">Automatikus időbeállítás</string>
-    <string name="notify_me">Jelezzen a telefonon</string>
+    <string name="notify_me">Időbeállítás visszajelzése a telefonon</string>
     <string name="timer">Időzítő</string>
     <string name="_00_00_00">00:00:00</string>
     <string name="_00">00</string>
@@ -104,8 +104,8 @@
     <string name="emergency_actions">Vészhelyzeti feladat:</string>
     <string name="make_phonecall">Telefonhívás</string>
     <string name="adjustment_time_info"><![CDATA[
-        <li>Az automtatikus időbeállítás naponta négyszer történik: 00:00, 06:00, 12:00 és 18:00-kor.</li>
-        <li>A perceket itt külön lehet beállítani. Ha itt például \'25\' perc van, megadva, akkor az időbeállítás rendre 00:25, 06:25, 12:25 és 18:25-kor for megtörténni.</li>
+        <li>Az automatikus időbeállítás naponta négyszer történik: 00:00, 06:00, 12:00 és 18:00-kor.</li>
+        <li>A funckió percre pontos időpontját itt külön lehet beállítani. Ha itt például \'25\' perc van megadva, akkor az időbeállítás rendre 00:25, 06:25, 12:25 és 18:25-kor for megtörténni.</li>
         <li>Így meg lehet akadályozni, hogy több óra egyszerre akarjon a telefonnal időt beállítani.</li>
         ]]></string>
     <string name="adjustment_time_minutes">Időbeállítás késleltetése\n(perc)</string>
@@ -141,7 +141,7 @@
     <string name="fine_time_adjustment">Finombeállítás</string>
     <string name="_0000">0000</string>
     <string name="fine_adjustment_info"><![CDATA[
-    Néha az időbeállítás nem sikerül túl pontosan, pár másodpercnyi különbség előfordulhat. Ilyenkor a kézi finombeállítás segíthet a helyzeten. +/- 10000 milliszekundum tartományban műkdöik.]]></string>
+    Néha az időbeállítás nem sikerül túl pontosan, pár másodpercnyi különbség előfordulhat. Ilyenkor a kézi finombeállítás segíthet a helyzeten. +/- 10000 milliszekundum tartományban működik.]]></string>
     <string name="required_permissions_denied_cannot_access_screen">Ez a funckió nem elérhető, mert egy szükséges engedély meg lett tagadva.</string>
     <string name="required_permissions_denied_cannot_access_actions">Ez a funckió nem elérhető, mert egy szükséges engedély meg lett tagadva.</string>
     <string name="calendar_permission_denied_cannot_access_events">Ez a funckió nem elérhető, mert a Google Naptár hozzáférés nincs engedélyezve.</string>
